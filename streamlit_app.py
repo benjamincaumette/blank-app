@@ -23,7 +23,8 @@ st.markdown("""
             
 /* Texte noir partout */
             
-html, body, [class*="css"]  {
+html, body, [class*="css"]  
+            .stApp {
     color: #000000 !important;
     font-family: "MedievalSharp", cursive;
 }
