@@ -62,15 +62,18 @@ h1 {
 
 h2 {
     font-size: 24px !important;
+             color: #000000 !important;
 }
 
 h3 {
     font-size: 20px !important;
+             color: #000000 !important;
 }
 
 /* Texte normal */
 p, div, span, label {
     font-size: 18px !important;
+             color: #000000 !important;
 }
 
 /* Boites medieval */
