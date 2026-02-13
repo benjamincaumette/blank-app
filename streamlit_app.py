@@ -20,7 +20,9 @@ st.markdown("""
 <style>
 
 @import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+            
 /* Texte noir partout */
+            
 html, body, [class*="css"]  {
     color: #000000 !important;
     font-family: "MedievalSharp", cursive;
