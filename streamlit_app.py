@@ -55,6 +55,8 @@ html, body, [class*="css"]  {
 h1 {
     text-align: center;
     font-size: 28px !important;
+    color: #000000 !important;
+    font-family: "MedievalSharp", cursive;
 }
 
 h2 {
