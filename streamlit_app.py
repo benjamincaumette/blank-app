@@ -53,6 +53,7 @@ html, body, [class*="css"]  {
 
 /* Titres */
 h1 {
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
     text-align: center;
     font-size: 28px !important;
     color: #000000 !important;
